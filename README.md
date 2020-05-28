@@ -1,2 +1,2 @@
 # microbit
-Tailer oinarrizko batzuk DBH lehen zikloko ikasleekin egiteko
+oinarrizko tailer batzuk DBH lehen zikloko ikasleekin egiteko
